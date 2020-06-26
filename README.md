@@ -2,8 +2,7 @@
 
 The folder contains:
 
-Report
-Tableaue File
-Presentation Video
-Datasets used (Dataset1 and Dataset2)
-Dashboards thumnail overview (Dashboard1 and Dashboard2)
+1.Tableaue File
+2.Presentation Video
+3.Datasets used (Dataset1 and Dataset2)
+4.Dashboards thumnail overview (Dashboard1 and Dashboard2)
